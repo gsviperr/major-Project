@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/chat"
+            android:icon="@drawable/bottom_btn3"
+            android:title="Chat Ngay"/>
+        <item android:id="@+id/Giohang"
+            android:icon="@drawable/bottom_btn5"
+            android:title="Thêm vào giỏ hàng"/>
+        <item android:id="@+id/Buy"
+            android:title="Mua Ngay"
+            android:visible="true"/>
+
+</menu>

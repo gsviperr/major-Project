@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"  android:icon="@drawable/home" android:title="Home"/>
+    <item android:id="@+id/category"  android:icon="@drawable/mall" android:title="Category"/>
+    <item android:id="@+id/group" android:icon="@drawable/group" android:title="Community"/>
+    <item android:id="@+id/noti" android:icon="@drawable/noti" android:title="Notification"/>
+    <item android:id="@+id/user" android:icon="@drawable/user"  android:title="User"/>
+</menu>
